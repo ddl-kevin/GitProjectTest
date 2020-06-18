@@ -1,1 +1,3 @@
 # GitProjectTest
+
+* Foo
