@@ -53,5 +53,5 @@ for i, clf in enumerate((svc, lin_svc, rbf_svc, poly_svc)):
     plt.yticks(())
     plt.title(titles[i])
 
-plt.savefig('results/iris.png')
+plt.savefig('/mnt/artifacts/results/iris.png')
 
